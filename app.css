@@ -1,0 +1,31 @@
+/* =================================
+  Base Element Styles
+==================================== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+li{
+  cursor: pointer;
+}
+
+
+/* ---- Layout Containers ---- */
+.containerTwo{
+  padding: 25px 30px;
+  margin: auto;
+  width: 70%;
+}
+
+/* ---- Page Elements ---- */
+/* .subBtn{
+  display: block;
+} */
+/* .delete-item {
+  margin-left: 700px;
+} */
+
+.list-group{
+  display: flex;
+}
